@@ -20,5 +20,5 @@
 - Velog: https://velog.io/@twnthbb
 - Brunch: https://brunch.co.kr/@onigiriman
 
-![twnth's github stats](https://github-readme-stats.vercel.app/api?username=twnth&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=twnth&show_icons=true)
 
