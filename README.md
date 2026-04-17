@@ -1,8 +1,16 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,50:7C3AED,100:FF6B9D&height=220&section=header&text=Android%20%26%20Web%20Developer&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Kotlin%20%7C%20Compose%20%7C%20React%20%7C%20Next.js&descAlignY=58&descSize=18)
+<h1>👋 Android & Web Developer</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=720&lines=6%EB%85%84%EC%B0%A8+Android+Developer;Jetpack+Compose%EB%A1%9C+%EB%8D%94+%EB%82%98%EC%9D%80+UX%EB%A5%BC+%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4;WebView+%2F+Hybrid+App+%2F+Performance+Optimization;React%EC%99%80+Next.js%EB%A1%9C+Web%EA%B9%8C%EC%A7%80+%ED%99%95%EC%9E%A5%ED%95%A9%EB%8B%88%EB%8B%A4)](https://git.io/typing-svg)
+<p>
+  <strong>Kotlin · Jetpack Compose · React · Next.js</strong>
+</p>
+
+<p>
+  6년차 Android 개발자 · WebView / Hybrid App · Performance Optimization
+</p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=7C3AED&center=true&vCenter=true&width=900&lines=%EA%B5%AC%EC%A1%B0+%EA%B0%9C%EC%84%A0%EA%B3%BC+%EC%95%88%EC%A0%95%ED%99%94%EB%A5%BC+%ED%86%B5%ED%95%B4+%EC%A7%80%EC%86%8D+%EA%B0%80%EB%8A%A5%ED%95%9C+%EC%A0%9C%ED%92%88%EC%9D%84+%EB%A7%8C%EB%93%AD%EB%8B%88%EB%8B%A4;%EC%84%B1%EB%8A%A5+%EC%B5%9C%EC%A0%81%ED%99%94%EC%99%80+%EA%B0%9C%EB%B0%9C+%ED%9A%A8%EC%9C%A8+%EA%B0%9C%EC%84%A0%EC%97%90+%EA%B4%80%EC%8B%AC%EC%9D%B4+%EB%A7%8E%EC%8A%B5%EB%8B%88%EB%8B%A4;Android%EC%99%80+Web%EC%9D%84+%EB%84%98%EB%82%98%EB%93%9C%EB%8A%94+%EC%82%AC%EC%9A%A9%EC%9E%90+%EA%B2%BD%ED%97%98%EC%9D%84+%EB%8B%A4%EB%A3%B9%EB%8B%88%EB%8B%A4)](https://git.io/typing-svg)
 
 <br />
 
