@@ -139,21 +139,6 @@ val developer = androidDeveloper {
 
 <br />
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=onigiriman&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=00C2FF&text_color=E6EDF3" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onigiriman&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=E6EDF3" />
-
-<br />
-<br />
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=onigiriman&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=FF6B9D&currStreakLabel=00C2FF" />
-
-</div>
-
-<br />
 
 ## ✍️ Writing
 
